@@ -6,3 +6,9 @@
 .big{
     font-size: 2em;
 }
+
+#bigBlue {
+    font-size: 3em;
+    color: #0000ff;
+    font-family: sans-serif;
+}
