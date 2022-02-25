@@ -12,3 +12,10 @@
     color: #0000ff;
     font-family: sans-serif;
 }
+
+#highlight {
+    background-color: #42d64a;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'DejaVU Sans', sans-serif;
+}
